@@ -27,7 +27,7 @@
 
 ### :round_pushpin: TimeLine
 
-<img src="https://user-images.githubusercontent.com/51200613/172024936-5080c804-a154-4095-88bc-6e0cd475c9e2.png" width="1000px" />
+<img src="https://user-images.githubusercontent.com/51200613/172024936-5080c804-a154-4095-88bc-6e0cd475c9e2.png" width="900px" />
 
 <hr>
 
